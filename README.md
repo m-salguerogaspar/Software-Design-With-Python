@@ -1,6 +1,6 @@
 # Created by Mauricio Salguero as part of Software Design With Python assigments.
 
-You will find 5 python files, in each one you will find the following:
+You will find 5 python files in src folder, in each one you will find the following:
 
 - main.py: four functions each one with 5 decorators above (the decorators are commented until you decide to use them).
 - task1: Answer to question 1 called decorator_1
