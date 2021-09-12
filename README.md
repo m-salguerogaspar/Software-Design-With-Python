@@ -1,4 +1,4 @@
-# Created by Mauricio Salguero as part of Software Design With Python assigment.
+# Created by Mauricio Salguero as part of Software Design With Python assigments.
 
 You will find 5 python files, in each one you will find the following:
 
